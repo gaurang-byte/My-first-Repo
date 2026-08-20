@@ -1,5 +1,2 @@
 # My-first-Repo
-This is the End
-<br>
-Gaurang go to bed 
-ls
+This is my first project and i dont have a girlfriend
